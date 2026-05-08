@@ -8,6 +8,8 @@ The project focuses on practical browser control rather than a custom command sh
 
 Repository: https://github.com/streetartist/smart-broswer-use
 
+Reworked from: https://github.com/rknoche6/fast-browser-use
+
 ## What It Provides
 
 - Real Chrome/Chromium control through CDP.
