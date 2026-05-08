@@ -218,4 +218,4 @@ cargo build --features mcp-server --bin mcp-server
 
 ## License
 
-MIT
+GPL-v3.0
