@@ -8,6 +8,8 @@
 
 仓库地址：https://github.com/streetartist/smart-broswer-use
 
+修改自：https://github.com/rknoche6/fast-browser-use
+
 ## 能力概览
 
 - 通过 CDP 控制真实 Chrome/Chromium。
